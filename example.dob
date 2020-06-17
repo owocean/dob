@@ -1,0 +1,15 @@
+--- BEGIN POST ---
+The current date is Tue Dec 03 2019 17:26:21 GMT-0600 (Central Standard Time)
+--- END POST ---
+
+This line is never used and is safe to insert comments!
+
+--- BEGIN POST ---
+Hello World!
+--- END POST ---
+
+--- BEGIN POST ---
+#! John
+#! Doe
+This post contains data
+--- END POST ---

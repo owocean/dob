@@ -1,0 +1,24 @@
+{
+  "name": "node-dob",
+  "version": "1.0.0",
+  "description": "A \"post\" styled database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owocean/dob.git"
+  },
+  "keywords": [
+    "database",
+    "node",
+    "npm"
+  ],
+  "author": "owocean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owocean/dob/issues"
+  },
+  "homepage": "https://github.com/owocean/dob"
+}
